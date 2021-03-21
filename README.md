@@ -1,0 +1,2 @@
+# PythonStart
+Python starting structure 
